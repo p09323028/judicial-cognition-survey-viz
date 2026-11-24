@@ -1,0 +1,10 @@
+# 原始個體資料不上傳
+*.dta
+*.sav
+*.csv
+*.xlsx
+*.doc
+*.docx
+*.pdf
+__pycache__/
+.claude/
